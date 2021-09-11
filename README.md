@@ -1,4 +1,4 @@
-# ELite Techno Groups Internship
+# Elite Techno Groups Internship
 This is an repository representing diiferent minor and major projects done over the course of Python for ML/AI internship with ETG.
 
 ## Inventory Management System
