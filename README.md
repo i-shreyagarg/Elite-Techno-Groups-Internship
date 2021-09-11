@@ -3,3 +3,7 @@ This is an repository representing diiferent minor and mojor projects done over 
 
 ## Inventory Management System
 In this project we created an Inventory Management System where we learned concepts including Python(dictonaries, numpy and pandas), Json(loading and dumping) and File Handling(reading and writing).
+
+
+
+#### By Shreya Garg
