@@ -1,2 +1,5 @@
-# Inventory-Management-System
-This is an Inventory Management System which has two users: Employee and Customer
+# ELite Techno Groups Internship
+This is an repository representing diiferent minor and mojor projects done over the course of Python for ML/AI internship with ETG.
+
+## Inventory Management System
+In this project we created an Inventory Management System where we learned concepts including Python(dictonaries, numpy and pandas), Json(loading and dumping) and File Handling(reading and writing).
