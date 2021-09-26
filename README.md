@@ -11,6 +11,6 @@ In this project Summer Olympics Data was analyzed in which concepts of numpy and
 In this project US Car Manufacturing Data was analyzed in which concepts of numpy and pandas were used.
 
 ## Breast Cancer Detection
-In this project an Breast Cancer Detection System was made where concepts including Python(dictonaries, numpy and pandas), sklearn and keras were used.
+In this project a Breast Cancer Detection System was made where concepts including Python(dictonaries, numpy and pandas), sklearn and keras were used.
 
 #### By Shreya Garg
