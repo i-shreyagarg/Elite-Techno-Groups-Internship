@@ -4,8 +4,12 @@ This is an repository representing diiferent minor and major projects done over 
 ## Inventory Management System
 In this project I created an Inventory Management System where we learned concepts including Python(dictonaries, numpy and pandas), JSON(loading and dumping) and File Handling(reading and writing).
 
-## Summer Olympics
-In this project I did Summer Olympics Data Analysis in which concepts of numpy and pandas were used.
+## Summer Olympics Analysis
+In this project Summer Olympics Data was analyzed in which concepts of numpy and pandas were used.
 
+## US Car Manufacturing Aanalysis
+In this project US Car Manufacturing Data was analyzed in which concepts of numpy and pandas were used.
+
+## Breast Cancer Detection
 
 #### By Shreya Garg
